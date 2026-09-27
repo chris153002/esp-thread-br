@@ -107,3 +107,5 @@ void app_main(void)
 
     launch_openthread_border_router(&openthread_config, &rcp_update_config);
 }
+
+// try one more time
